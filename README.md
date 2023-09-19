@@ -1,7 +1,7 @@
-(https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/320356092_1265460170969976_4650170535293447610_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=05bb41&_nc_ohc=wyBKc5xCcp4AX_kS9qm&_nc_ht=scontent.fdac24-1.fna&oh=00_AfCUUZyG9L86VKqb34BKfb6x8FJIxYO0tz7FYWPr93YkvQ&oe=650E7953)
+![Wed developer ](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/320356092_1265460170969976_4650170535293447610_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=05bb41&_nc_ohc=wyBKc5xCcp4AX_kS9qm&_nc_ht=scontent.fdac24-1.fna&oh=00_AfCUUZyG9L86VKqb34BKfb6x8FJIxYO0tz7FYWPr93YkvQ&oe=650E7953)
 ### Hi there 👋, I am Zarif Ahmed
 #### Wed developer 
-![Wed developer ]
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  HTML / CSS/ PYTHON/JS
